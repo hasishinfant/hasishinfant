@@ -8,9 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hasish--infant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasish-infant)
 [![Gmail](https://img.shields.io/badge/Email-hasbtech28edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasbtech28edu@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/hasishinfant?style=for-the-badge&color=181717&logo=github&logoColor=white&label=Followers)](https://github.com/hasishinfant)
-
-![Profile Views](https://komarev.com/ghpvc/?username=hasishinfant&style=for-the-badge&color=1a56db&label=PROFILE+VIEWS)
 
 </div>
 
@@ -18,7 +15,7 @@
 
 ### 👋 About Me
 
-I'm a **2nd-year B.Tech CSE student** at Alliance University, Bengaluru — specializing in Full Stack Development. I build AI-powered products that solve real problems, not tutorial clones.
+I'm a **pre-final year B.Tech CSE student** at Alliance University, Bengaluru — specializing in Full Stack Development. I build AI-powered products that solve real problems, not tutorial clones.
 
 - 🌊 Built **OceanRaksha AI** — a marine safety platform for Indian coastal fishermen using live CPCB government sensor data + Claude API
 - 🚀 **Top 52 nationally** at TBO VoyageHack 3.0, out of hundreds of all-India teams
